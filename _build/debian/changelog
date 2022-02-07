@@ -1,6 +1,7 @@
 freetype (2.11.1-100) unstable; urgency=medium
 
   * UPD: Move to DEB Store.
+  * COMMIT: 1beb915f17869690b9ac928b8e19f7c21e121d7a.
 
  -- Package Store <mail@z17.dev>  Mon, 07 Feb 2022 23:10:00 +0300
 
