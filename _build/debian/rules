@@ -69,6 +69,6 @@ override_dh_makeshlibs:
 	dh_makeshlibs -V 'libfreetype6 (>= $(dep_ver))' --add-udeb=libfreetype6-udeb
 
 override_dh_auto_clean:
-	dh_auto_clean --sourcedir=ft2demos -- TOP_DIR=$(CURDIR)
+	dh_auto_clean --sourcedir=_build/ft2demos -- TOP_DIR=$(CURDIR)
 	dh_auto_clean
 	rm -rf $(udeb_dir) objs/.libs
