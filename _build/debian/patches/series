@@ -1,0 +1,5 @@
+enable-gxvalid-otvalid.patch
+enable-subpixel-rendering.patch
+jquery.patch
+no-web-fonts.patch
+hide-donations-information.patch
