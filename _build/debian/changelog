@@ -1,3 +1,9 @@
+hugo (2.11.1-100) unstable; urgency=medium
+
+  * UPD: Move to DEB Store.
+
+ -- Package Store <mail@z17.dev>  Sat, 29 Jan 2022 22:00:00 +0300
+
 freetype (2.11.1+dfsg-1) unstable; urgency=medium
 
   * New upstream version:
